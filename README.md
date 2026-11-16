@@ -97,9 +97,7 @@ To run any experiment from this manual:
    ```
 7. Verify endpoints using a browser or Postman as described in the Output section.
 
-## 8. Source Repository
-This laboratory manual is derived from and provides authoritative documentation for the original source repository:
-- **Authoritative Source Repository:** [https://github.com/pavithra03042006/NM](https://github.com/pavithra03042006/NM)
+
 
 All original experiment implementations, algorithms, entity mappings, and endpoints have been faithfully preserved and enhanced with academic documentation.
 
