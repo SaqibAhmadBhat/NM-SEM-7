@@ -97,11 +97,9 @@ To run any experiment from this manual:
    ```
 7. Verify endpoints using a browser or Postman as described in the Output section.
 
-
-
 All original experiment implementations, algorithms, entity mappings, and endpoints have been faithfully preserved and enhanced with academic documentation.
 
-## 9. Repository Structure
+## 8. Repository Structure
 ```
 NM-SEM-7/
 ├── README.md
